@@ -1,3 +1,3 @@
 # Mirror Source Repository
 
-A source repository.
+A source repository for testing mirroring.
