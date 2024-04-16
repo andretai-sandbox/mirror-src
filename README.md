@@ -12,4 +12,4 @@ Testing, testing, three, two, and one!
 
 ### dev-2
 
-This is dev-2 branch. ** Dev-3 coming in hot! **
+This is dev-3 branch.
